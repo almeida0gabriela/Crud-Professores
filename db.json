@@ -1,0 +1,30 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Maria Silva",
+      "email": "maria@email.com",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "2007-05-14",
+      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+    },
+    {
+      "nome": "Isadora Gabriela Almeida Bezerra",
+      "email": "Gabriela@email.com",
+      "cpf": "98765432100",
+      "data_nascimento": "2009-03-09",
+      "endereco": "Rua das Hortências, N°21",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Luis Filho",
+      "email": "luix@email.com",
+      "cpf": "123.456.789-01",
+      "disciplina": "Eletricidade Instrumental",
+      "data_admissao": "2019-10-10"
+    }
+  ]
+}
